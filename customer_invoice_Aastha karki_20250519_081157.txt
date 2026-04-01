@@ -1,0 +1,14 @@
+WeCare Customer Invoice
+------------------------------
+Date: 2025-05-19 08:11:57
+Customer: Aastha karki
+
+Items:
+- Sunscreen (Aqualogica) | Qty: 3, Free: 1, Total: ₹4200.0
+
+------------------------------
+Subtotal: rs.4200.00
+VAT (13%): rs.546.00
+Grand Total: rs.4746.00
+------------------------------
+Thank you for your purchase!
