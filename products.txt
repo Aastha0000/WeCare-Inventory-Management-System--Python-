@@ -5,3 +5,7 @@ Moisturiser, Minimalist, 150, 600.0, India
 Toner, Anua, 100, 1000.0, South Korea
 Sheet Mask, Cosrx, 180, 350.0, South Korea
 Eye cream, Centella, 198, 600.0, China
+Body Wash, Dove, 150, 800.0, India
+Face wash, CeraVe, 133, 1300.0 , USA
+Body Lotion, Vaseline, 180, 500.0, USA
+Perfume, Belavita, 120, 350.0, India
